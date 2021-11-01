@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "perTime",
+      "type": "java.lang.String",
+      "description": "Description for perTime."
+  }
+] }
